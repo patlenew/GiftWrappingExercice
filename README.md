@@ -4,3 +4,4 @@ A small algorithm exercice for run: a roughly-made gift wrapping algorithm inspi
 It uses line renderers and an XZ range for instanciating the nodes. To test, you simply have to click on the "Convex Hull XZ" Component
 and click on the generate nodes in game mode.
 
+![Exemple Beheavior](gif-exemple.gif)
